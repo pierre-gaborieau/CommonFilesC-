@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Defontaine.Common
+namespace pierregaborieau.Common
 {
         public class Select2
         {
