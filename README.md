@@ -17,3 +17,6 @@ Admitting you called it TR in your imports here is how it works :
 >TR.Print_listResult<YourListType>(yourListResult); ///For more lisibility
 
 # MappingModel.cs
+  
+# Select2
+  All informations in the readme.md files of the Select2 folder
