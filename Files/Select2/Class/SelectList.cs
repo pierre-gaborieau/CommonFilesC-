@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Web.Mvc;
 
-namespace Defontaine.Common
+namespace pierregaborieau.Common
 {
     public class SelectList<T, U>
     {
